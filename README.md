@@ -25,7 +25,7 @@
 ## Equipe 
 - ``Lucas Lamonier (Back-end | JavaScript | NodeJS | ExpressJS)`` [Linkedin](https://www.linkedin.com/in/lamonier/) ou [Github](https://github.com/LrLamonier)
 - ``Lucas Pampolha (Back-end | JavaScript | NodeJS | ExpressJS)`` [Linkedin](https://www.linkedin.com/in/) ou [Github](https://github.com/lpampolha) 
-- ``Vando Rocha (Back-end | JavaScript | NodeJS | ExpressJS)`` [Linkedin](https://www.linkedin.com/in//) ou [Github](https://github.com/Vandorc-Dev)
+- ``Vando Rocha (Back-end | JavaScript | NodeJS | ExpressJS)`` [Linkedin](https://www.linkedin.com/in/vando-rocha/) ou [Github](https://github.com/Vandorc-Dev)
 - ``Gisele Souza (Back-end | JavaScript | NodeJS | ExpressJS)`` [Linkedin](https://www.linkedin.com/in//) ou [Github](https://github.com/giselessouza)
 
 Instrutor:
