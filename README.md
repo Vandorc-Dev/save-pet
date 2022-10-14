@@ -1,4 +1,4 @@
-<div align="center" style="margin: 20px; text-align: center">
+<div align="center" style="margin: 18px; text-align: center">
 
 ![README](https://img1.wsimg.com/isteam/stock/42906/:/cr=t:0%25,l:0%25,w:100%25,h:100%25)
 
